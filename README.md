@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Raymond Chau
-- 🔭 I’m currently working on improving my Financial Fundamentals and Excel. 
-- 🌱 I’m currently learning how to create Financial Models to further understand the interpretation of data.
-- 👯 I’m looking to collaborate on anything that involves mathematics and finance.
+- 🔭 I’m currently working on improving my Financial Fundamentals and Excel, learning more about Aerospace and Healthcare. 
+- 🌱 I’m currently learning how to create Financial Models to understand the interpretation of data further.
+- 👯 I’m looking to collaborate on anything that involves mathematics.
 - 🤔 I’m looking for help with automation.
 - 📫 How to reach me: email: Raymondchua4@gmail.com
 - ⚡ Portfolio: https://sites.google.com/view/raymond-chau/home
