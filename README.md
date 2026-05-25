@@ -24,32 +24,18 @@ I am interested in mechanical design, manufacturing, and robotics systems, with 
 
 ### Mechanical Vice Assembly (SolidWorks)
 - Designed a multi-part vice assembly with moving components
-- Created full 2D drawing set with dimensions and tolerances
+- Created a full 2D drawing set with dimensions and tolerances
 - Generated exploded views and assembly structure
 
-### CNC Machined Bracket (Fusion 360)
-- Designed manufacturable aluminum bracket
-- Developed toolpaths using adaptive clearing and contour strategies
-- Simulated full machining process
-
-### Robotic Arm (2-Axis Design)
-- Designed a basic robotic arm with rotational joints
-- Incorporated motion simulation in SolidWorks
-- Focused on mechanical movement and joint design
-
----
-
-## 🌐 Portfolio
-
-View full portfolio with images and drawings:  
-👉 https://yourname.github.io
+### Portan Fan (SolidWorks)
+-Designed 
 
 ---
 
 ## 📫 Contact
 
 Email: raymondchau4@gmail.com  
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/raymondchau2532/
 <!--
 **blater54/blater54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
